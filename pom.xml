@@ -60,6 +60,13 @@
       <artifactId>slf4j-simple</artifactId>
       <version>1.7.36</version>
     </dependency>
+    
+    <!-- Jedis Redis Client -->
+    <dependency>
+      <groupId>redis.clients</groupId>
+      <artifactId>jedis</artifactId>
+      <version>4.4.6</version>
+    </dependency>
   </dependencies>
 
   <build>
